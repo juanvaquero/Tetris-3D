@@ -1,5 +1,6 @@
 # Tetris 3D
  Remake of the famous tetris game but now in 3 dimensions, made with Unity.
+  - Executable build ready to use in the repository.
  
  ## Main menu
  
@@ -12,3 +13,4 @@
  ## Gameplay Screenshot
  
  ![captura3](https://user-images.githubusercontent.com/14598192/71101467-0c75cd00-21b7-11ea-9bc7-e089edecbe69.png)
+
